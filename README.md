@@ -10,7 +10,7 @@ GitHub App using
 - `pyjwt` 
 - `cryptography`
 
-See requirements.txt.
+See [requirements.txt](https://github.com/ElPaisano/edit_bot/blob/master/requirements.txt).
 
 When the command line script is run, the GitHub App will open an issue in the repo.
 
